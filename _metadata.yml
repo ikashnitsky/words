@@ -1,0 +1,13 @@
+# Date format
+date-format: "dddd, MMMM D, YYYY"
+
+# # Enable banner style title blocks
+# title-block-banner: "#002F2F"
+
+freeze: true
+
+# Default knitr options
+execute:
+  echo: true
+  message: false
+  warning: false

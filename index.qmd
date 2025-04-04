@@ -1,0 +1,35 @@
+---
+title: "Occasional writings"
+description-meta: 'This webpage hosts my various texts (in English and Russian) scattered across the internet'
+listing:
+  - id: posts_en
+    contents: "en/**/index.qmd"
+    sort: "date desc"
+    template: html/listing-grid.ejs
+  - id: posts_ru
+    contents: "ru/**/index.qmd"
+    sort: "date desc"
+    template: html/listing-grid.ejs
+    
+# page-layout: full
+# toc-location: right
+date-format: "MMMM D, YYYY"
+code-tools: false
+comments: false
+---
+
+This webpage hosts my various texts (in English and Russian) scattered across the internet. The main purpose is preservation of these texts regardless of the fate of the online sources were they were initially published. 
+
+
+## Texts in English
+
+::: {#posts_en}
+:::
+
+## Texts in Russian
+
+::: {#posts_ru}
+:::
+
+
+
