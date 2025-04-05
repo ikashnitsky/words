@@ -36,7 +36,7 @@ author-meta: "Ilya Kashnitsky"
 website:
   title: "words"
   description: "Dr. Ilya Kashnitsky's various texts (in English and Russian) scattered across the internet."
-  favicon: "/img/logo.webp"
+  favicon: "/img/logo.png"
   site-url: "https://writings.ikashnitsky.phd"
   repo-url: "https://github.com/ikashnitsky/writings"
 

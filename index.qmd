@@ -13,6 +13,7 @@ listing:
     
 # page-layout: full
 # toc-location: right
+title-block-banner: img/banner.png
 date-format: "MMMM D, YYYY"
 code-tools: false
 comments: false
