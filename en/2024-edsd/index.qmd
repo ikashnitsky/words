@@ -1,0 +1,21 @@
+---
+title: Which cohort are you?
+description-meta: 'For those of us who stayed in the field –and this is easily a majority in each cohort– EDSD networks became the guiding lines navigating us through our careers.'
+fig-cap-location: margin
+reference-location: margin
+date: 2024-02-23
+image: edsd.jpg
+---
+
+"Which cohort are you?" – one can hear this question multiple times at any demographic event these days. I can easily imagine how frustrating this may be to an uninitiated conference attendant. "What are they talking about? Is it some sort of a sect? What cohorts? What the hell is going on here?" – these were all the questions that were racing in my head when I first attended the European Population Conference in Budapest in 2014. I was finishing my demography masters, about to start a PhD in The Netherlands, and completely naive to European demography. And here they were, self-confident, always cheerful and unbelievably well-connected young guys who were all happily belonging to some "cohorts". Soon I figured out that the transcendent structure that unified them was the European Doctoral School of Demography. "Wait, school? How does it relate to other levels of education?" – so then I learned that it's an absolutely unique almost one-year-long training program for starting PhD students. And... it was not available for me – my soon to be started Erasmus PhD scholarship had not been possible to postpone or pause. This 2014 EPC left a painful scar, which was only deepend in 2016. And then, in 2017, I figured out that one does not have to necessarily be a just enrolled PhD student, and as long as one hadn't yet defended the thesis, they were able to apply. Boom! This is how I got "my cohort", which turned out to be the most amazing group of young demographers: diverse, talented, and motivated. The only regret (not really) was that I didn't learn all the cool things before my three years of doing PhD. I compensated via taking three more years, which only became possible thanks to EDSD, which brought me to Odense, where Jim Vaupel offered me to stay. And this is arguably the main benefit of the school – it gives the lucky young participants a unique exposure to the world of (mostly) European demography. For those of us who stayed in the field –and this is easily a majority in each cohort– EDSD networks became the guiding lines navigating us through our careers. So if you are interested in demography and consider applying to become part of the next cohort, don't hesitate – this is the best opportunity in demography!
+
+[edsd]: https://eaps.nl/edsd/Testimonials
+[ar]: https://archive.md/BK1Bh
+
+
+***
+
+::: {.callout-note}
+# Original publication: [EDSD website][edsd] | [Archived vesrion][ar]
+:::
+

@@ -27,6 +27,9 @@ format:
 
 editor: source
 
+bibliography: bib/cited-in-words.bib
+csl: bib/population-space-and-place.csl
+
 
 # Metadata stuff
 pagetitle: "{{< meta title >}}"

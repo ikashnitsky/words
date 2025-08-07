@@ -1,0 +1,28 @@
+---
+title: Taking by hand
+description-meta: 'That was a typical conduct of Leo – simple, no bragging, no unnecessary words, timely and accurately executed.'
+fig-cap-location: margin
+reference-location: margin
+date: 2024-04-26
+image: leo.jpg
+---
+
+Unusually bright sunny afternoon. Early spring. Long, wet, and dark Dutch winter is finally over. The large NIDI meeting room is filled with multiple chatting voices of relaxed people who just finished the delicious weekly fish lunch. Suddenly, the room explodes with piano music. It sounds in perfect harmony with the sunny spring day but feels so unexpected and out of place at the academic institute. Never before have I paid attention to a piano quietly standing in a far corner of the room. Never before have I heard that Leo had once been a professional pianist. Even now no words were spilled around the sudden performance. Music just started, and then equally mundanely stopped. And then the usual workday went on.  
+
+That was a typical conduct of Leo – simple, no bragging, no unnecessary words, timely and accurately executed. I don’t remember Leo speaking lengthily. Yet, for every important event –like  anniversaries, phd defence or retirement parties, grant winning celebrations– Leo always prepared a speech. Not too long, not too serious, not too joking. But always very engaging, carefully thought through, augmented with personal stories, always mood-lifting and picturing a bright future. As the director Leo was always supportive, respected the decisions people made along their paths, and generously offered help.  
+
+Throughout my phd years spent at NIDI under Leo’s supervision I was constantly wondering with grateful appreciation – how does he put up with me? I was exactly the opposite of the well organised confident workflow of Leo. Coming totally underprepared for an independent doctoral research adventure, burning with multiple half-baked ideas and not knowing how to finalise them, loaded with frequent young father’s family complications – I used to bring my laptop to our early supervision meetings and, stretching the discussion well beyond the planned one-hour slot, was showing arrays of early results and plots, offering new and new avenues that I was about to execute “by the end of this week”. Leo smiled mildly and suggested that we focus on something realistic, set a realistic deadline, and move straightforwardly to actually meet this goal. Not tomorrow, but rather in a couple of months. Not some other shining half-baked idea, but rather this particular discussed and clearly defined idea. His favourite saying in response to my many side-tracking mind paths was “First things first”. And slowly slowly I was digesting this purposeful approach. Still, the first draft of my first paper was eventually divided in two parts, of which one actually became the first paper, and the other was also divided in two parts, first of which eventually became another paper, and the second one was just abandoned. But very slowly with careful Leo’s guidance I was learning how to define a paper’s scope and proceed to make it happen.  
+
+One of the main feedbacks that Leo provided to my early drafts was to “Take the reader by hand” and offer a non-confusing journey through my research questions and results. Looking back I see with gratitude that this is exactly  what he did with my whole phd project – took me by hand and guided me along the complex path of becoming an independent researcher. Yet, Leo was never offloading the responsibility off my shoulders. I believe I never received a reminder from him regarding any missed deadline. Initially I was amazed with this deliberate hands-off mode of supervision. Later, I saw how effective it was to leave the responsibility for the final outcome with me in order to keep internal motivation and gain independence. And yet, whenever I struggled Leo was there to help. I hope to become a similarly attentive advisor one day and in this way to pay back the kindness and support that helped me so much to do the baby steps in demography. Thank you Leo!
+
+
+[leo]: https://publ.nidi.nl/output/2024/vanwissen-2024-liberamicorum.pdf
+[ar]: https://web.archive.org/web/20240614015928/https://publ.nidi.nl/output/2024/vanwissen-2024-liberamicorum.pdf
+
+
+***
+
+::: {.callout-note}
+# Original publication: [Liber Amicorum Leo][leo] | [Archived vesrion][ar]
+:::
+
